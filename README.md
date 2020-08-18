@@ -16,3 +16,5 @@ A simple, clean word-of-the-day app.
 
 ![preview1](https://www.dropbox.com/s/96vyp1nctkfe7sw/long.png?dl=1)
 ![preview2](https://www.dropbox.com/s/c10dicvt1z8nr3z/medium%202.png?dl=1)
+
+https://medium.com/chingu/how-to-code-a-word-of-the-day-app-in-javascript-and-turn-it-into-a-chrome-extension-part-1-a5ef87134e85
